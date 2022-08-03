@@ -16,6 +16,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | [Find The Unique Number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235) | [My Solution](./Katas/finduniquenumber/) | 7Kyu | ✅ |
 | [Where My Anagrams At?](https://www.codewars.com/kata/523a86aa4230ebb5420001e1) | [My Solution](./Katas/wheremyanagrams/) | 5Kyu | ✅ |
 | [Sudoku Solution Validator](https://www.codewars.com/kata/529bf0e9bdf7657179000008) | [My Solution](./Katas/sudokusolution/) | 4Kyu | ✅ |
+| [Pyramid Slide Down](https://www.codewars.com/kata/551f23362ff852e2ab000037) | [My Solution](./Katas/pyramidslide/) | 4Kyu | ✅ |
 
 
 <!-- 🚧 -->

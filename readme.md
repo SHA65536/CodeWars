@@ -14,6 +14,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | [Highest Scoring Word](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272) | [My Solution](./Katas/highestscoreword/) | 6Kyu | ✅ |
 | [Int32 to IPv4](https://www.codewars.com/kata/52e88b39ffb6ac53a400022e) | [My Solution](./Katas/int32toipv4/) | 5Kyu | ✅ |
 | [Find The Unique Number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235) | [My Solution](./Katas/finduniquenumber/) | 7Kyu | ✅ |
+| [Where My Anagrams At?](https://www.codewars.com/kata/523a86aa4230ebb5420001e1) | [My Solution](./Katas/wheremyanagrams/) | 5Kyu | ✅ |
 
 
 <!-- 🚧 -->

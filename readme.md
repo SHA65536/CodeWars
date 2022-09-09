@@ -17,7 +17,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | [Where My Anagrams At?](https://www.codewars.com/kata/523a86aa4230ebb5420001e1) | [My Solution](./Katas/wheremyanagrams/) | 5Kyu | ✅ |
 | [Sudoku Solution Validator](https://www.codewars.com/kata/529bf0e9bdf7657179000008) | [My Solution](./Katas/sudokusolution/) | 4Kyu | ✅ |
 | [Pyramid Slide Down](https://www.codewars.com/kata/551f23362ff852e2ab000037) | [My Solution](./Katas/pyramidslide/) | 4Kyu | ✅ |
-
+| [ISBN-10 Validation](https://www.codewars.com/kata/51fc12de24a9d8cb0e000001) | [My Solution](./Katas/isbn10/) | 5Kyu | ✅ | 
 
 <!-- 🚧 -->
 <!--| [Name](Link) | [My Solution](./Katas/) | 7Kyu | ✅ | -->
